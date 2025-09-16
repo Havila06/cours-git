@@ -92,7 +92,7 @@ if (assertEquals(result5, expected5, "Test mots partiels")) {
 testsTotal++;
 const test6 = "coeur amour chat chien soleil lune eau feu terre";
 const result6 = convertTextToEmoji(test6);
-const expected6 = "❤️ 💕 🐱 🐶 ☀️ 🌙 💧 🔥 🌍";
+const expected6 = "❤️ 💕 🐱 🐶 ☀️ 🌙 💧 🔥 🌍 🎁";
 
 if (assertEquals(result6, expected6, "Test tous les emojis")) {
     testsPassés++;
