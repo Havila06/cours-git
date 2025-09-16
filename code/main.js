@@ -1,6 +1,6 @@
 // Convertisseur de texte vers emoji
 // Ce programme remplace certains mots par des emojis
-
+// JFJJ
 const wordToEmoji = {
     'coeur': '❤️',
     'amour': '💕',
